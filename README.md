@@ -8,10 +8,10 @@ Lecture notes and exercises on Dr. Ravel Ammerman's course "EGGN 281 Introductio
 
 To update the book, run the following commands:
 
-In the parent of the local repository:
-`conda activate ENVNAME`
-`jb build 2023-ai-study-notes`
+In the parent of the local repository:  
+`conda activate ENVNAME`  
+`jb build 2023-cicuits`  
 
-Then, in the local repositor (containing the `.git` folder):
-`git add, commit and push`
-`ghp-import -n -p -f _build/html`
+Then, in the local repositor (containing the `.git` folder):  
+`git add, commit and push`  
+`ghp-import -n -p -f _build/html`  
