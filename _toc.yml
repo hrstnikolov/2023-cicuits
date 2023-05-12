@@ -1,0 +1,12 @@
+format: jb-book
+root: intro
+chapters:
+- file: lecture-01
+- file: lecture-02
+- file: lecture-06
+- file: lecture-07
+- file: lecture-08
+- file: lecture-09
+- file: lecture-10
+- file: lecture-13
+- file: lecture-14
